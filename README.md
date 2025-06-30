@@ -1,5 +1,4 @@
-### 🌈 백엔드 개발자
-- 열심히 공부중
+### 🌈 Backend Developer
 
 ### 🛠 Tech Stacks
 
